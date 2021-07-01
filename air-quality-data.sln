@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "air-quality-data", "air-quality-data\air-quality-data.csproj", "{05F01F59-12CF-41D7-856E-ED485696E8BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "air-quality-data-tests", "air-quality-data-tests\air-quality-data-tests.csproj", "{CD0DC320-B3B0-4B24-BCF6-92B1582A1B92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05F01F59-12CF-41D7-856E-ED485696E8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F01F59-12CF-41D7-856E-ED485696E8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F01F59-12CF-41D7-856E-ED485696E8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F01F59-12CF-41D7-856E-ED485696E8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD0DC320-B3B0-4B24-BCF6-92B1582A1B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0DC320-B3B0-4B24-BCF6-92B1582A1B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0DC320-B3B0-4B24-BCF6-92B1582A1B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0DC320-B3B0-4B24-BCF6-92B1582A1B92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B397CF53-3F8F-4351-9E50-073BA6B1EB04}
+	EndGlobalSection
+EndGlobal
